@@ -1,5 +1,7 @@
 # Curso de programacion Back End con Node.js
 
+Biendenid@ al **Curso de programacion Back End con Node.js** en este curso aprenderas: 
+
 * Introducción a Node.js: Conceptos básicos de Node.js, arquitectura y diferencias con otros lenguajes de programación.
 
 * Instalación y configuración de Node.js y NPM: Instalación de Node.js y NPM en diferentes sistemas operativos y configuración del entorno de desarrollo.
@@ -20,9 +22,19 @@
 
 * Proyecto final: Desarrollo de una aplicación completa con Node.js, desde la concepción hasta su despliegue en producción.
 
+## Indice
 
-
-
+* Introducción a Node.js.
+* Instalación y configuración de Node.js y NPM.
+* Fundamentos de JavaScript.
+* Gestión de paquetes y módulos con NPM.
+* Desarrollo de servidores con Node.js.
+* Bases de datos y conexión a servidores de bases de datos.
+* Desarrollo de aplicaciones web.
+* Deployment y producción.
+* Seguridad.
+* Muestra del resultado del proyecto final.
+  
 ## Author
 
 Created by Leon Martin ([Malvabombom](https://github.com/malvabombom)).
