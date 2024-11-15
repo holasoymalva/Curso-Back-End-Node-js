@@ -157,10 +157,6 @@ Si encuentras algún error o tienes sugerencias para mejorar el curso, no dudes 
 ## 📄 Licencia
 
 Este curso está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-Desarrollado con ❤️ por [Tu Nombre/Organización]
   
 ## Author
 
