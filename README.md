@@ -1,43 +1,170 @@
-# Curso de programacion Back End con Node.js
+# Curso de Desarrollo Backend con Node.js 2024 🚀
 
-Biendenid@ al **Curso de programacion Back End con Node.js** en este curso aprenderas: 
+Este curso está diseñado para proporcionar una base sólida en el desarrollo backend utilizando Node.js, siguiendo las mejores prácticas de la industria y preparándote para roles de desarrollo junior.
 
-* Introducción a Node.js: Conceptos básicos de Node.js, arquitectura y diferencias con otros lenguajes de programación.
+## 📋 Prerrequisitos
 
-* Instalación y configuración de Node.js y NPM: Instalación de Node.js y NPM en diferentes sistemas operativos y configuración del entorno de desarrollo.
+- Conocimientos básicos de JavaScript (ES6+)
+- Comprensión básica de HTML y CSS
+- Familiaridad con la línea de comandos
+- Git y GitHub básico
+- Un editor de código (recomendado: VS Code)
 
-* Fundamentos de JavaScript: Conceptos básicos de JavaScript, sintaxis y programación orientada a objetos.
+## 🎯 Objetivos del Curso
 
-* Gestión de paquetes y módulos con NPM: Creación de proyectos y gestión de paquetes y módulos con NPM.
+Al finalizar este curso, serás capaz de:
+- Desarrollar aplicaciones backend robustas con Node.js
+- Implementar APIs RESTful siguiendo mejores prácticas
+- Trabajar con bases de datos SQL y NoSQL
+- Manejar autenticación y autorización
+- Implementar pruebas automatizadas
+- Desplegar aplicaciones en la nube
 
-* Desarrollo de servidores con Node.js: Creación y configuración de servidores web con Node.js, uso de middlewares y peticiones HTTP.
+## 📚 Contenido del Curso
 
-* Bases de datos y conexión a servidores de bases de datos: Introducción a bases de datos relacionales y no relacionales, conexión a servidores de bases de datos desde Node.js y uso de ORMs.
+### Módulo 1: Fundamentos de Node.js
+1. Introducción a Node.js y su ecosistema
+   - ¿Qué es Node.js?
+   - Event Loop y arquitectura asíncrona
+   - npm y gestión de paquetes
+   - CommonJS vs ES Modules
 
-* Desarrollo de aplicaciones web: Desarrollo de aplicaciones web completas con Node.js y diferentes tecnologías web, como Express.js, Handlebars, etc.
+2. JavaScript Moderno para Backend
+   - Async/Await
+   - Promises
+   - Destructuring
+   - Arrow Functions
+   - Modules
 
-* Deployment y producción: Despliegue de aplicaciones en servidores web y mejores prácticas en producción.
+### Módulo 2: Desarrollo de APIs RESTful
+1. Express.js Framework
+   - Configuración y middlewares
+   - Routing
+   - Manejo de errores
+   - Validación de datos
 
-* Seguridad: Consideraciones de seguridad en aplicaciones Node.js y mejores prácticas para prevenir ataques.
+2. REST y mejores prácticas
+   - Principios REST
+   - Diseño de endpoints
+   - Documentación con Swagger/OpenAPI
+   - Rate limiting y seguridad básica
 
-* Proyecto final: Desarrollo de una aplicación completa con Node.js, desde la concepción hasta su despliegue en producción.
+### Módulo 3: Bases de Datos
+1. SQL con PostgreSQL
+   - Modelado de datos
+   - Queries y relaciones
+   - Migrations
+   - ORM (Sequelize/Prisma)
 
-## Indice
+2. NoSQL con MongoDB
+   - Modelado de documentos
+   - CRUD operations
+   - Mongoose
+   - Indexes y performance
 
-* Introducción a Node.js.
-* Instalación y configuración de Node.js y NPM.
-* Fundamentos de JavaScript.
-* Gestión de paquetes y módulos con NPM.
-* Desarrollo de servidores con Node.js.
-* Bases de datos y conexión a servidores de bases de datos.
-* Desarrollo de aplicaciones web.
-* Deployment y producción.
-* Seguridad.
-* Muestra del resultado del proyecto final.
+### Módulo 4: Seguridad y Autenticación
+1. Seguridad en Node.js
+   - OWASP top 10
+   - Sanitización de datos
+   - CORS
+   - Helmet.js
+
+2. Autenticación y Autorización
+   - JWT
+   - OAuth 2.0
+   - Roles y permisos
+   - Sessions vs Tokens
+
+### Módulo 5: Testing
+1. Unit Testing
+   - Jest
+   - Mocking
+   - Test Driven Development (TDD)
+
+2. Integration Testing
+   - Supertest
+   - Test de APIs
+   - Coverage reports
+
+### Módulo 6: DevOps y Despliegue
+1. CI/CD
+   - GitHub Actions
+   - Docker básico
+   - Microservicios conceptos
+
+2. Despliegue
+   - Railway/Heroku/DigitalOcean
+   - Variables de entorno
+   - Logging y monitoreo
+   - PM2
+
+## 🛠️ Proyectos Prácticos
+
+1. **API de E-commerce**
+   - CRUD de productos
+   - Autenticación de usuarios
+   - Carrito de compras
+   - Procesamiento de pagos
+
+2. **Sistema de Blog**
+   - Posts y comentarios
+   - Roles de usuario
+   - Upload de imágenes
+   - API REST completa
+
+3. **Microservicio de Notificaciones**
+   - Emails
+   - Webhooks
+   - Queue system
+   - Real-time con Socket.io
+
+## 🔍 Recursos Adicionales
+
+### Documentación Oficial
+- [Node.js Docs](https://nodejs.org/docs)
+- [Express.js Docs](https://expressjs.com/)
+- [MongoDB Docs](https://docs.mongodb.com/)
+
+### Herramientas Recomendadas
+- Postman/Insomnia
+- MongoDB Compass
+- pgAdmin
+- Docker Desktop
+- Visual Studio Code
+  - ESLint
+  - Prettier
+  - REST Client
+  - Docker
+  - GitLens
+
+## 💼 Preparación para el Mundo Laboral
+
+- Construcción de portafolio
+- Mejores prácticas de Git
+- Code reviews
+- Trabajo en equipo
+- Metodologías ágiles básicas
+
+## 🤝 Contribución
+
+Si encuentras algún error o tienes sugerencias para mejorar el curso, no dudes en:
+1. Hacer fork del repositorio
+2. Crear una nueva rama (`git checkout -b mejora/descripcion`)
+3. Hacer commit de tus cambios (`git commit -am 'Agrega nueva característica'`)
+4. Push a la rama (`git push origin mejora/descripcion`)
+5. Crear un Pull Request
+
+## 📄 Licencia
+
+Este curso está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+Desarrollado con ❤️ por [Tu Nombre/Organización]
   
 ## Author
 
-Created by Leon Martin ([Malvabombom](https://github.com/malvabombom)).
+Created by Leon Martin ([malva](https://github.com/holasoymalva)).
 
 [![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
 
